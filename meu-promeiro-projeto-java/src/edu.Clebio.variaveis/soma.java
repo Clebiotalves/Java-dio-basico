@@ -1,7 +1,11 @@
-package edu.Clebio.variaveis;
+public class Operadores { 
 
-public class soma {
-
-    
+    public static void main(String[] args) {
+        
+        
+        System.out.println(nomeCompleto)
+        
+    }
+  
     
 }
